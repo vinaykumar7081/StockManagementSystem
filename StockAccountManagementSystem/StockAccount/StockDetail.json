@@ -1,0 +1,17 @@
+[
+  {
+    "NumberOFShare": 5,
+    "SharePrice": 500,
+    "StockName": "TCS"
+  },
+  {
+    "NumberOFShare": 10,
+    "SharePrice": 5000,
+    "StockName": "Infosys"
+  },
+  {
+    "NumberOFShare": 10,
+    "SharePrice": 4500,
+    "StockName": "Google"
+  }
+] 
